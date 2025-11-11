@@ -1,6 +1,6 @@
 # 🪄 CodeClip &nbsp;– Coding Challenge Vault
 
-**CodeClip** is a lightweight, fully client-side web app that lets developers **store, solve, run, and share coding challenges** directly in the browser. Built with vanilla **HTML, CSS, and JavaScript**, it is ideal for first-time open-source contributors and is being developed under **GirlScript Summer of Code (GSSoC)**.
+**CodeClip** is a lightweight, fully client-side web app that lets developers **store, solve, run, and share coding challenges** directly in the browser. Built with vanilla **HTML, CSS, and JavaScript**
 
 ## ✨ Key Features (Planned & Implemented)
 
